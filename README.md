@@ -4,11 +4,11 @@
 # config
 Пример, что находится в config:
 
-mail_pass = "пароль от почты для внешних приложений"
-username = "ivanov.petrov@mail.ru"
-imap_server = "imap.mail.ru"
-local_directory = './Python_2024/Labs'
-file_deadlines = './labs_deadlines.csv'
+mail_pass = "пароль от почты для внешних приложений"<br>
+username = "ivanov.petrov@mail.ru"<br>
+imap_server = "imap.mail.ru"<br>
+local_directory = './Python_2024/Labs'<br>
+file_deadlines = './labs_deadlines.csv'<br>
 
 TOKEN = 'токен'
 
